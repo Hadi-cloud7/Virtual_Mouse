@@ -20,7 +20,7 @@ Setup
 Make sure you have Python 3.10 or 3.11 installed, then run:
 bashpython -m venv venv
 venv\Scripts\activate        # Windows
-# source venv/bin/activate   # Mac/Linux
+
 
 pip install -r requirements.txt
 python virtual_mouse.py
