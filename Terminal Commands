@@ -1,0 +1,5 @@
+The Libraries required:
+opencv-python
+mediapipe==0.10.33
+pyautogui
+numpy
